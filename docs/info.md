@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This desing realices the sum of two binary numbers 
+This desing realices the sum of two binary numbers.
 
 ## How to test
 
-Use the dipdwitch
+Use the dipdwitch.
 
 ## External hardware
 
